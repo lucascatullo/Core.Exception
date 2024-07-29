@@ -4,7 +4,7 @@
 	  <TargetFramework>net8.0</TargetFramework>
 	  <ImplicitUsings>enable</ImplicitUsings>
 	  <Nullable>enable</Nullable>
-	  <PackageId>Lucas.Core.Custom.Exception</PackageId>
+	  <PackageId>LucasC1992.Core.Custom.Exception</PackageId>
 	  <PackageVersion>1.0.0</PackageVersion>
 	  <Version>1.0.0</Version>
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
