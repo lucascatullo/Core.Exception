@@ -27,7 +27,7 @@ public sealed class Exception<TExceptionArgs> : System.Exception, ISerializable,
     {
         get
         {
-            return m_args.Message ?? m_args.Message.ToString();
+            return m_args.Message ?? m_args.Message!.ToString();
         }
     }
 
